@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219949791191",
+    "project_id": "linknotes-f5d10",
+    "storage_bucket": "linknotes-f5d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219949791191:android:c5386558d740d461de3d92",
+        "android_client_info": {
+          "package_name": "com.example.linknotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1pipzKoTGu-8iP8U1-JCOlGK0SG8OSd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
